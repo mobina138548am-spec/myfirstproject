@@ -1,0 +1,15 @@
+@charset "utf-8";
+.pinkdiv {
+    background-color:#f63c99 ;
+    width: 100%;
+    height: 20px;
+}
+.rectangle {
+    margin:0px;
+    width : 100%;
+    height:0;
+    border-top: 20px solid #f63c99;
+    border-right:0 soild #f63c99;
+    border-left: 20px solid #f63c99;
+    border-bottom: solid #f63c99;
+}
